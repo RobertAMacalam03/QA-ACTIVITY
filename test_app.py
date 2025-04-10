@@ -42,7 +42,7 @@ def test_divide_positive():
 
 
 def test_divide_negative():
-    assert divide(-10, -2) == 2
+    assert divide(-10, -2) == 5
 
 
 def test_divide_mixed():
