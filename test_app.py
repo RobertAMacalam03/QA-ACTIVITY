@@ -20,6 +20,7 @@ def test_subtract_positive():
 def test_subtract_negative():
     assert subtract(-5, -2) == -3
 
+
 def test_subtract_mixed():
     assert subtract(-4, 9) == -13
 
